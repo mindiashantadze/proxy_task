@@ -1,0 +1,23 @@
+[2023-06-28 02:12:44] [1] [INFO] 
+============= Test configuration =============
+url=http://www.solvd.com
+env=DEMO
+selenium_url=http://localhost:4444/wd/hub
+auto_screenshot=true
+project_report_directory=./reports
+max_screen_history=10
+localization_encoding=UTF-8
+language=en_US
+selenium_url=http://localhost:4444/wd/hub
+
+------------- Driver capabilities -----------
+capabilities.browserName=chrome
+================================================
+
+[2023-06-28 02:12:44] [1] [WARN] Reporting disabled: using no op test run registrar
+[2023-06-28 02:12:46] [1] [INFO] [TestNG] Running:
+  /Users/mindiashantadze/Library/Caches/JetBrains/IdeaIC2022.2/temp-testng-customsuite.xml
+
+[2023-06-28 02:12:46] [1] [INFO] Set thread-count=1
+[2023-06-28 02:12:46] [1] [INFO] Set data-provider-thread-count=1
+[2023-06-28 02:12:46] [1] [INFO] CARINA_CORE_VERSION: 1.0.0

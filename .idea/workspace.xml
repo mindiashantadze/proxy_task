@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0a51e005-8846-4521-9c7b-c9df1641df93" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/api/DeleteUserMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/api/GetUserMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/api/PostUserMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/db/mappers/UserMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/db/mappers/UserPreferenceMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/db/models/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/db/models/UserPreference.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/gui/components/ModelItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/gui/components/NewsItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/gui/components/WeValuePrivacyAd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/gui/components/compare/CandidateBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/gui/components/compare/ModelSpecs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/gui/components/footer/FooterMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/gui/components/footer/FooterMenuBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/gui/components/footer/MobileFooterMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/gui/pages/android/AllBrandsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/gui/pages/android/BrandModelsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/gui/pages/android/CompareModelsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/gui/pages/android/HomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/gui/pages/android/ModelInfoPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/gui/pages/android/NewsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/gui/pages/common/AllBrandsPageBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/gui/pages/common/BrandModelsPageBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/gui/pages/common/CompareModelsPageBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/gui/pages/common/HomePageBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/gui/pages/common/ModelInfoPageBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/gui/pages/common/NewsPageBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/gui/pages/desktop/AllBrandsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/gui/pages/desktop/AttachFilePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/gui/pages/desktop/BrandModelsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/gui/pages/desktop/CompareModelsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/gui/pages/desktop/HomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/gui/pages/desktop/ModelInfoPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/gui/pages/desktop/NewsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/gui/pages/desktop/WikipediaHomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/gui/pages/desktop/WikipediaLocalePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/gui/pages/ios/AllBrandsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/gui/pages/ios/BrandModelsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/gui/pages/ios/CompareModelsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/gui/pages/ios/HomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/gui/pages/ios/ModelInfoPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/gui/pages/ios/NewsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/mobile/gui/pages/android/CarinaDescriptionPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/mobile/gui/pages/android/ChartsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/mobile/gui/pages/android/ContactUsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/mobile/gui/pages/android/DragAndDropPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/mobile/gui/pages/android/LoginPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/mobile/gui/pages/android/MapsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/mobile/gui/pages/android/UIElementsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/mobile/gui/pages/android/WebViewPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/mobile/gui/pages/android/WelcomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/mobile/gui/pages/common/CarinaDescriptionPageBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/mobile/gui/pages/common/ChartsPageBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/mobile/gui/pages/common/ContactUsPageBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/mobile/gui/pages/common/LoginPageBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/mobile/gui/pages/common/MapsPageBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/mobile/gui/pages/common/UIElementsPageBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/mobile/gui/pages/common/WebViewPageBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/mobile/gui/pages/common/WelcomePageBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/mobile/gui/pages/ios/CarinaDescriptionPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/mobile/gui/pages/ios/LoginPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/mobile/gui/pages/ios/PreferencesPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/mobile/gui/pages/ios/SaucePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/mobile/gui/pages/ios/WelcomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/proxy/CustomProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/proxy/CustomProxyRule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/proxy/DemoResponseFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/soap/AddIntegerMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/soap/LookupCityMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/utils/ConnectionFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mshantadze/carina/demo/utils/MobileContextUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/mshantadze/carina/demo/APISampleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/mshantadze/carina/demo/AmazonS3Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/mshantadze/carina/demo/AutoDownloadTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/mshantadze/carina/demo/CryptoSampleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/mshantadze/carina/demo/CustomDataProvidersSampleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/mshantadze/carina/demo/DBSampleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/mshantadze/carina/demo/DataProvidersSampleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/mshantadze/carina/demo/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/mshantadze/carina/demo/IOSPreferencesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/mshantadze/carina/demo/IOSSafariTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/mshantadze/carina/demo/LegacyProxySampleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/mshantadze/carina/demo/MobileDragAndDropTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/mshantadze/carina/demo/MobileSampleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/mshantadze/carina/demo/PageOpeningStrategySampleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/mshantadze/carina/demo/ProxySampleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/mshantadze/carina/demo/SoapSampleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/mshantadze/carina/demo/WebLocalizationSample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/mshantadze/carina/demo/WebMultipleBrowserTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/mshantadze/carina/demo/WebSampleSingleDriver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/mshantadze/carina/demo/WebSampleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/mshantadze/carina/demo/regression/attachfile/AttachFileTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/mshantadze/carina/demo/regression/dataprovider/DataproviderRetryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/mshantadze/carina/demo/regression/dataprovider/DataproviderRetryTest1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/mshantadze/carina/demo/regression/dataprovider/DataproviderRetryTest2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/mshantadze/carina/demo/regression/dataprovider/XlsDataproviderRetryTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2RpwPivAjYdPYmc1VCreBQbiuzA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/mindiashantadze/dev/proxy_task&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="ProxyTest.proxyTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="proxy_task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mshantadze.carina.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="mshantadze.carina" />
+      <option name="MAIN_CLASS_NAME" value="mshantadze.carina.ProxyTest" />
+      <option name="METHOD_NAME" value="proxyTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.ProxyTest.proxyTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a51e005-8846-4521-9c7b-c9df1641df93" name="Changes" comment="" />
+      <created>1687960308317</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687960308317</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
